@@ -46,7 +46,7 @@ public class StatisticsTest {
         players.add(new Player("Gretzky", "EDM", 35, 89));
 
         for (Player p : stats.team("EDM")) {
-            
+
         }
     }
 }
